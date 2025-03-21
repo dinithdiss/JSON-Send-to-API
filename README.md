@@ -1,25 +1,11 @@
 # JsonData-Send-to-API
 Send json data to specific endpoints (APIs) with dropdown selection
 
-# JsonData-Send-to-API using simple frontend
-
-This is a NextJs app to manage class fees.
-- This App able to add paymant details.
-- Get paymant details from email inbox.
-
-## Features
-- Add paymant details scanning students QR code.
-- Get paymant details from my another email inbox.
-- Send details as email.
-- Mobile Responsive Web-App.
-- This is a NextJs project because we can deploy on Vercel.
-
 ## Technology
 
 - HTML
 - Javascript
   
-
 ## Installation
 Open post.html file
 
